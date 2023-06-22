@@ -1,0 +1,62 @@
+.all-block{ 
+    text-align: center;
+}
+
+
+
+
+.block {
+    width: 300px;
+    height: 400px;
+    background-color: rgb(0, 157, 255);
+    background: linear-gradient(violet, blue, green, yellow);
+    text-align: center;
+
+
+
+}
+.img src{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+button {
+    background-color: black;
+    color: white;
+    padding: 10px 90 px;
+    width: 200px;
+
+}
+
+
+.block-2 {
+    width: 300px;
+    height: 400px;
+    background-color: aquamarine;
+    background: linear-gradient(rgb(0, 140, 255), rgb(0, 191, 255), yellow);
+    text-align: center;
+}
+
+button {
+    background-color: white;
+    color: black;
+    padding: 10px 90px;
+    width: 200px;
+}
+
+.block-3 {
+    width: 300px;
+    height: 400px;
+    background-color: aquamarine;
+    background: linear-gradient(green, red, white, blue);
+    text-align: center;
+
+}
+
+button {
+    background-color: white;
+    color: black;
+    padding: 10px 90px;
+    width: 200px;
+}
